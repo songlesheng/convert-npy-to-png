@@ -8,4 +8,4 @@ _ _ _
   npy_png(s):    ( conver .pny to png when your npy file has more than one picture)
 
 _ _ _
-  update : test_size.py 可以测试 .npy 的大小，由此改变主函数的参数
+  update : test_size.py 可以测试 .npy 的大小，由此改变主函数的参数  1/21/2019
