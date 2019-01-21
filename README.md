@@ -1,4 +1,4 @@
-# npy-png-
+# convert npy to png
 将 .pny 转为 .png ，并可以实现批量转换
 _ _ _
 主函数在 code.rar 里面:  
